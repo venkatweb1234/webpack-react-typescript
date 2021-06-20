@@ -3,6 +3,7 @@ import ReactLogo from './react.png'
 import Logo from './logo.svg'
 import { ClickCounter } from './ClickCounter'
 export const App = () => {
+  const ve ="vvvv"
   return (
     <>
       <h1>
